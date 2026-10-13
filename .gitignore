@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+dados.db
+monitor.log
+*.log
+pagina.html
+config.py
+.env
+.vscode/
+.idea/
+*.zip
