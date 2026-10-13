@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# config.py
+
+TELEGRAM_TOKEN = "8734372930:AAHb4VLNP3cw8Lw3T42JmlUEqWQ7_edotcw"
+INTERVALO_MINUTOS = 30
