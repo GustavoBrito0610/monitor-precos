@@ -1,0 +1,6 @@
+
+streamlit
+plotly
+requests
+beautifulsoup4
+schedule
